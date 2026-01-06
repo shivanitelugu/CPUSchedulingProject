@@ -81,6 +81,7 @@ P3 2 4 1 6 10
 Average Waiting Time = 3.0
 Average Turnaround Time = 7.0
 
+<img width="376" height="297" alt="image" src="https://github.com/user-attachments/assets/0e075bb7-a218-4395-9721-e4ec3e4ff369" />
 ---
 
 ## 🚀 How to Run the Project
